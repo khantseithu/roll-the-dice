@@ -16,6 +16,8 @@ Welcome to the Roll the Dice game! This is a simple game for two players.
 - Score tracking
 - Dice roll animation
 
+You can play the game [here](https://khantseithu.github.io/roll-the-dice/).
+
 ## Contributing
 
 We welcome contributions to this project. If you have an idea for a new feature or find a bug, please open a new issue or submit a pull request.
